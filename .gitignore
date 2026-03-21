@@ -26,3 +26,6 @@ build/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# local models
+ecs_demo/models/
